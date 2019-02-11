@@ -1,5 +1,5 @@
 # labexample
-to learn
+Learning Github in Lab
 
 change no 1 in master
 
